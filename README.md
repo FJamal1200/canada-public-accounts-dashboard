@@ -1,5 +1,5 @@
 # Canada Public Spending Dashboard
-
+![Dashboard Preview](dashboard.png)
 Interactive data dashboard analyzing **Canadian Public Accounts transfer payment data**.
 
 The dashboard visualizes government spending by organization, tracks expenditure trends over time, and compares **actual expenditures vs authorized budgets**.
