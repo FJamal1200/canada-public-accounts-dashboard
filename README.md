@@ -1,8 +1,8 @@
 # Canada Public Spending Dashboard
 ![Dashboard Preview](dashboard.png)
-Interactive data dashboard analyzing **Canadian Public Accounts transfer payment data**.
+An interactive data dashboard analyzing Canadian Public Accounts transfer payment data using Python, Pandas, Plotly, and Streamlit. **.
 
-The dashboard visualizes government spending by organization, tracks expenditure trends over time, and compares **actual expenditures vs authorized budgets**.
+The dashboard helps users explore government transfer payment spending by organization, fiscal year, and budget authority. It compares actual expenditures against authorized spending to make public finance data easier to understand and analyze.**.
 
 Live Dashboard:
 https://canada-public-spending-dashboard.streamlit.app/
